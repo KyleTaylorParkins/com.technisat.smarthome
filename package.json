@@ -6,6 +6,6 @@
     "homey": "^2.34.0"
   },
   "dependencies": {
-    "homey-zwavedriver": "^2.1.10"
+    "homey-zwavedriver": "^2.2.3"
   }
 }
