@@ -1,7 +1,7 @@
 {
   "id": "com.technisat.smarthome",
-  "version": "1.5.9",
-  "compatibility": ">=5.0.0",
+  "version": "1.7.0",
+  "compatibility": ">=10.0.0",
   "sdk": 3,
   "name": {
     "de": "Technisat SmartHome App",

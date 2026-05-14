@@ -5,7 +5,7 @@
     "nl": "Dubbele wandschakelaar",
     "de": "Serieschalter"
   },
-  "class": "light",
+  "class": "socket",
   "capabilities": [
     "onoff.output1",
     "onoff.output2",
@@ -32,25 +32,29 @@
     "measure_power.output1": {
       "title": {
         "en": "Power - Output 1",
-        "nl": "Energie - Uitgang 1"
+        "nl": "Energie - Uitgang 1",
+        "de": "Energie - Ausgang 1"
       }
     },
     "meter_power.output1": {
       "title": {
         "en": "Power meter - Output 1",
-        "nl": "Energiemeter - Uitgang 1"
+        "nl": "Energiemeter - Uitgang 1",
+        "de": "Energiezähler - Ausgang 1"
       }
     },
     "measure_power.output2": {
       "title": {
         "en": "Power - Output 2",
-        "nl": "Energie - Uitgang 2"
+        "nl": "Energie - Uitgang 2",
+        "de": "Energie - Ausgang 2"
       }
     },
     "meter_power.output2": {
       "title": {
         "en": "Power meter - Output 2",
-        "nl": "Energiemeter - Uitgang 2"
+        "nl": "Energiemeter - Uitgang 2",
+         "de": "Energiezähler - Ausgang 2"
       }
     }
   },

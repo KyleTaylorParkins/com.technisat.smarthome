@@ -117,5 +117,10 @@
     "en": "Labels and texts adapted to the roller shutter switch.",
     "nl": "App beschrijving bijgewerkt.",
     "de": "Beschriftungen und Texte zum Rollladenschalter angepasst."
+  },
+  "1.7.0": {
+    "en": "Updated Z-Wave driver and Homey libary. Added device choice for wall switches.",
+    "nl": "Z-Wave driver en Homey bibliotheken geupdatet. Keuze voor wandschakelaars welk type apparaat deze bestuurt.",
+    "de": "Z-Wave-Treiber und Homey-Bibliotheken wurden aktualisiert. Bei Wandschaltern kann nun ausgewählt werden, welchen Gerätetyp dieser steuert."
   }
 }

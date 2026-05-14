@@ -5,7 +5,7 @@
     "nl": "Wandschakelaar",
     "de": "Ausschalter"
   },
-  "class": "light",
+  "class": "socket",
   "capabilities": [
     "onoff",
     "measure_power",
